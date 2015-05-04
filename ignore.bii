@@ -1,0 +1,5 @@
+benchmarks/*
+python/*
+tests/*
+third_party
+*.py

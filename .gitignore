@@ -77,3 +77,8 @@ get_title
 positions_of_class
 prettyprint
 serialize
+
+
+# Biicode temp files
+bii
+bin
